@@ -24,7 +24,7 @@ export const projects = [
     id: 1,
     title: "Community Health Camp",
     description: "A comprehensive health camp providing free medical check-ups and awareness sessions to the local community.",
-    image: "/images/projects/health-camp.jpg",
+    image: "https://manavrachna.edu.in/blog-content/2018/04/Health-Camp-at-Ankhir-Village-1024x585.png",
     date: "March 15, 2024",
     category: "Health",
     details: {
@@ -37,7 +37,7 @@ export const projects = [
     id: 2,
     title: "Education for All",
     description: "Providing educational resources and support to underprivileged children in rural areas.",
-    image: "/images/projects/education.jpg",
+    image: "https://www.sevamandir.org/images/What%20we%20do/WindowImg/161_4_E_1_sub-page_ed_landscape.jpg",
     date: "February 28, 2024",
     category: "Education",
     details: {
@@ -50,7 +50,7 @@ export const projects = [
     id: 3,
     title: "Environmental Cleanup",
     description: "A community-wide initiative to clean and maintain local parks and public spaces.",
-    image: "/images/projects/environment.jpg",
+    image: "https://www.rappler.com/tachyon/r3-assets/D822CF56C98E41268D0FD659E0B9729F/img/2A46416BB6644F1AB63A2C10FF5909C0/34th-intl-coastal-cleanup-day-sept212019-0018.jpg",
     date: "January 20, 2024",
     category: "Environment",
     details: {
